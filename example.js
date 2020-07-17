@@ -61,3 +61,4 @@ $(function () {
 	obj = $("#imgsrc");
 	drag(obj); //传入的必须是jQuery对象，否则不能调用jQuery的自定义函数
 })
+
